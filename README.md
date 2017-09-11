@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Test1
-=======
+ 
 # basics-assignment-1-start
 >>>>>>> cce0a65a2e3fe3addc2c785741f7c701cfd906a5
 
